@@ -1,0 +1,22 @@
+.components {
+  position: absolute;
+  top: 12%;
+  left: 1%;
+  border: 3px black solid;
+  width: 20%;
+  height: 86%;
+  border-radius: 10px;
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.item {
+  /* border: 5px solid rgba(241, 243, 117, 0.883); */
+  border-radius: 10px;
+  width: 90px;
+  height: 90px;
+  margin: 10px auto;
+  color: rgb(141, 15, 15);
+}

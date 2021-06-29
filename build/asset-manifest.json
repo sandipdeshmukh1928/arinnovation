@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89ab983e.chunk.css",
+    "main.js": "/static/js/main.e846ab32.chunk.js",
+    "main.js.map": "/static/js/main.e846ab32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2973008.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2973008.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.3b2fff68.chunk.js": "/static/js/2.3b2fff68.chunk.js",
+    "static/js/2.3b2fff68.chunk.js.map": "/static/js/2.3b2fff68.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.89ab983e.chunk.css.map": "/static/css/main.89ab983e.chunk.css.map",
+    "static/js/2.3b2fff68.chunk.js.LICENSE.txt": "/static/js/2.3b2fff68.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg6.6574ad44.jpg",
+    "static/media/chair.c54656cb.png": "/static/media/chair.c54656cb.png",
+    "static/media/sofa.4a06528c.png": "/static/media/sofa.4a06528c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2973008.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.3b2fff68.chunk.js",
+    "static/css/main.89ab983e.chunk.css",
+    "static/js/main.e846ab32.chunk.js"
+  ]
+}
